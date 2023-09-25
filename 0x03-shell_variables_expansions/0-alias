@@ -1,2 +1,6 @@
 #!/bin/bash 
+<<<<<<< HEAD
 alais ls = "rm *"
+=======
+alias [ls = "rm*"]
+>>>>>>> 73da39681376956d6057d0ec854bf63f087034c0
